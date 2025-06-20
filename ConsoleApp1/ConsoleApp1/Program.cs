@@ -26,6 +26,10 @@ namespace ConsoleApp1
                     {
                         Console.WriteLine("1-4の間で数字を入力してください");
                     }
+                    else
+                    {
+                        break;
+                    }
                 }
             }
         }
